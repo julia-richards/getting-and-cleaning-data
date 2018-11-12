@@ -2,7 +2,7 @@
 
 This code book outlines the variables, the data, and transformations used in the `run_analysis.R` to produce the data in `tidy.txt`
 
-#Variables
+# Variables
 
 Subject - This identifties the subject with values 1 - 30 as an interger data type
 
